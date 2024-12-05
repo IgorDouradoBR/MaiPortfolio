@@ -51,7 +51,7 @@ function Projects() {
               imgPath={bitsOfCode}
               isBlog={false}
               title="Koletora"
-              description="Koletora is an App designed for card collectors to organize and visualize their collections, trade cards with others, and relive the nostalgia of collecting, all in one place."
+              description="Koletora is an App designed for card collectors to organize and visualize their collections, trade cards with others, and relive the nostalgia of collecting, all in one place.\n\n"
               ghLink="https://www.behance.net/gallery/213975693/Koletora-Card-Collection-app?tracking_source=project_owner_other_projects"
               //demoLink="https://editor.soumya-jit.tech/"              
             />
