@@ -8,6 +8,8 @@ import editor from "../../Assets/Projects/codeEditor.png";
 import chatify from "../../Assets/Projects/chatify.png";
 import suicide from "../../Assets/Projects/suicide.png";
 import bitsOfCode from "../../Assets/Projects/blog.png";
+import salao from "../../Assets/Projects/salao.png";
+
 
 function Projects() {
   return (
@@ -58,10 +60,10 @@ function Projects() {
             <ProjectCard
               imgPath={leaf}
               isBlog={false}
-              title="Plant AI"
-              description="Used the plant disease dataset from Kaggle and trained a image classifer model using 'PyTorch' framework using CNN and Transfer Learning with 38 classes of various plant leaves. The model was successfully able to detect diseased and healthy leaves of 14 unique plants. I was able to achieve an accuracy of 98% by using Resnet34 pretrained model."
-              ghLink="https://github.com/soumyajit4419/Plant_AI"
-              demoLink="https://plant49-ai.herokuapp.com/"
+              title="Fuê"
+              description="Fuê is an App for cooking enthusiasts to learn kitchen skills through quizzes and mini-games. As a UX/UI Designer and a gastronomy graduate, I combined my expertise and passion to create a fun and engaging platform that inspires users to explore culinary techniques."
+              //ghLink="https://github.com/soumyajit4419/Plant_AI"
+              demoLink="https://apps.apple.com/br/app/fuê/id6535653077"
             />
           </Col>
 
@@ -69,28 +71,49 @@ function Projects() {
             <ProjectCard
               imgPath={suicide}
               isBlog={false}
-              title="Ai For Social Good"
-              description="Using 'Natural Launguage Processing' for the detection of suicide-related posts and user's suicide ideation in cyberspace  and thus helping in sucide prevention."
-              ghLink="https://github.com/soumyajit4419/AI_For_Social_Good"
-              // demoLink="https://www.youtube.com/watch?v=dQw4w9WgXcQ&ab_channel=RickAstley" <--------Please include a demo link here
-            />
+              title="Riddle Cards"
+              description="Riddle Cards is an App featuring nearly 3000 riddles and jokes in English and Portuguese, inspired by popular card games. With 3 exclusive themes, it offers an engaging experience through interactive card designs, perfect for fun moments with friends or alone."
+             // ghLink="https://github.com/soumyajit4419/AI_For_Social_Good"
+              demoLink="https://apps.apple.com/br/app/riddle-cards/id6569229614"
+              />
           </Col>
 
           <Col md={4} className="project-card">
             <ProjectCard
               imgPath={emotion}
               isBlog={false}
-              title="Face Recognition and Emotion Detection"
-              description="Trained a CNN classifier using 'FER-2013 dataset' with Keras and tensorflow backened. The classifier sucessfully predicted the various types of emotions of human. And the highest accuracy obtained with the model was 60.1%.
-              Then used Open-CV to detect the face in an image and then pass the face to the classifer to predict the emotion of a person."
-              ghLink="https://github.com/soumyajit4419/Face_And_Emotion_Detection"
-              // demoLink="https://blogs.soumya-jit.tech/"      <--------Please include a demo link here 
+              title="Acesso+"
+              description="Acesso+ is an App focused on accessibility and inclusion, designed to assist people with disabilities in navigating universities and educational spaces with ease and independence."
+              // ghLink="https://github.com/soumyajit4419/AI_For_Social_Good"
+              demoLink="https://apps.apple.com/br/app/acesso/id6449302201" 
             />
           </Col>
+
+          <Col md={4} className="project-card">
+            <ProjectCard
+              imgPath={salao}
+              isBlog={false}
+              title="Avand Studio"
+              description="Avand Studio is a prototype of a beauty salon app created as part of a UX/UI design project. Designed for iPhone, iPad, and MacOS, it focuses on delivering a seamless and intuitive experience, showcasing modern interface design tailored for multiple Apple devices."
+              ghLink="https://www.behance.net/gallery/206923057/Beauty-app-Case-Study-UIUX-design"
+              //demoLink="https://apps.apple.com/br/app/acesso/id6449302201" 
+            />
+          </Col>
+
+          <Col md={4} className="project-card">
+            <ProjectCard
+              imgPath={salao}
+              isBlog={false}
+              title="Dulce Natural"
+              description="Dulce Natural is a prototype for a bakery platform and website, created as a web-focused case study. The design highlights an elegant and user-friendly interface, showcasing the unique offerings of the bakery while providing an intuitive experience for customers."
+              ghLink="https://www.behance.net/gallery/146250863/UXUI-Case-Study-5-Bakery-web"
+              //demoLink="https://apps.apple.com/br/app/acesso/id6449302201" 
+            />
+          </Col>
+          
         </Row>
       </Container>
     </Container>
   );
 }
-
 export default Projects;
