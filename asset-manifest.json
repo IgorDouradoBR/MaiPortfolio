@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/MaiPortfolio/static/css/main.42d58678.css",
-    "main.js": "/MaiPortfolio/static/js/main.591e0663.js",
+    "main.js": "/MaiPortfolio/static/js/main.352dc002.js",
     "static/js/453.ace21015.chunk.js": "/MaiPortfolio/static/js/453.ace21015.chunk.js",
     "static/media/home-main.png": "/MaiPortfolio/static/media/home-main.32e351fe9253d6f8be85.png",
     "static/media/codeEditor.png": "/MaiPortfolio/static/media/codeEditor.c97b3e9ff6269d97c331.png",
@@ -19,11 +19,11 @@
     "static/media/pre.svg": "/MaiPortfolio/static/media/pre.d4812f51c8c80976eaab.svg",
     "index.html": "/MaiPortfolio/index.html",
     "main.42d58678.css.map": "/MaiPortfolio/static/css/main.42d58678.css.map",
-    "main.591e0663.js.map": "/MaiPortfolio/static/js/main.591e0663.js.map",
+    "main.352dc002.js.map": "/MaiPortfolio/static/js/main.352dc002.js.map",
     "453.ace21015.chunk.js.map": "/MaiPortfolio/static/js/453.ace21015.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.42d58678.css",
-    "static/js/main.591e0663.js"
+    "static/js/main.352dc002.js"
   ]
 }
