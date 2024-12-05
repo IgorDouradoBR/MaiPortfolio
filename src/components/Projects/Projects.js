@@ -9,6 +9,7 @@ import chatify from "../../Assets/Projects/chatify.png";
 import suicide from "../../Assets/Projects/suicide.png";
 import bitsOfCode from "../../Assets/Projects/blog.png";
 import salao from "../../Assets/Projects/salao.png";
+import bake from "../../Assets/Projects/bakery.png";
 
 
 function Projects() {
@@ -102,7 +103,7 @@ function Projects() {
 
           <Col md={4} className="project-card">
             <ProjectCard
-              imgPath={salao}
+              imgPath={bake}
               isBlog={false}
               title="Dulce Natural"
               description="Dulce Natural is a prototype for a bakery platform and website, created as a web-focused case study. The design highlights an elegant and user-friendly interface, showcasing the unique offerings of the bakery while providing an intuitive experience for customers."
