@@ -84,7 +84,7 @@ function Projects() {
               imgPath={emotion}
               isBlog={false}
               title="Acesso+"
-              description="Acesso+ is an App focused on accessibility and inclusion, designed to assist people with disabilities in navigating universities and educational spaces with ease and independence."
+              description="Acesso+ is an App focused on accessibility and inclusion, designed to assist people with disabilities in navigating universities and educational spaces with ease and independence. Acesso+ is an app made and designed for help everyone."
               // ghLink="https://github.com/soumyajit4419/AI_For_Social_Good"
               demoLink="https://apps.apple.com/br/app/acesso/id6449302201" 
             />
