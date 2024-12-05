@@ -25,21 +25,10 @@ function Projects() {
             <ProjectCard
               imgPath={chatify}
               isBlog={false}
-              title="Chatify"
-              description="Personal Chat Room or Workspace to share resources and hangout with friends build with react.js, Material-UI, and Firebase. Have features which allows user for realtime messaging, image sharing as well as supports reactions on messages."
-              ghLink="https://github.com/soumyajit4419/Chatify"
-              demoLink="https://chatify-49.web.app/"
-            />
-          </Col>
-
-          <Col md={4} className="project-card">
-            <ProjectCard
-              imgPath={bitsOfCode}
-              isBlog={false}
-              title="Bits-0f-C0de"
-              description="My personal blog page build with Next.js and Tailwind Css which takes the content from makdown files and renders it using Next.js. Supports dark mode and easy to write blogs using markdown."
-              ghLink="https://github.com/soumyajit4419/Bits-0f-C0de"
-              demoLink="https://blogs.soumya-jit.tech/"
+              title="Herbaria"
+              description="Herbaria is an App to helps users identify plant species, visualize all the plants they care for, and receive tasks and notifications to remind them of their plant care routine, among many other features.."
+              ghLink="https://www.behance.net/gallery/209512871/Herbaria-Smart-Plant-Care-App"
+              demoLink="https://apps.apple.com/br/app/herbaria-seu-app-de-plantas/id6473550019"
             />
           </Col>
 
@@ -47,10 +36,21 @@ function Projects() {
             <ProjectCard
               imgPath={editor}
               isBlog={false}
-              title="Editor.io"
-              description="Online code and markdown editor build with react.js. Online Editor which supports html, css, and js code with instant view of website. Online markdown editor for building README file which supports GFM, Custom Html tags with toolbar and instant preview.Both the editor supports auto save of work using Local Storage"
-              ghLink="https://github.com/soumyajit4419/Editor.io"
-              demoLink="https://editor.soumya-jit.tech/"              
+              title="Onírica"
+              description="Onírica is an App designed to help users record and remember their dreams, track sleep patterns through insightful graphs, and enhance their sleep quality with features like a sleep tracker and a music player with soothing white noises, among many other features."
+              ghLink="https://www.behance.net/gallery/214067863/Onirica-Dream-Diary"
+              demoLink="https://apps.apple.com/br/app/on%C3%ADrica/id6737875597"
+            />
+          </Col>
+
+          <Col md={4} className="project-card">
+            <ProjectCard
+              imgPath={bitsOfCode}
+              isBlog={false}
+              title="Koletora"
+              description="Koletora is an App designed for card collectors to organize and visualize their collections, trade cards with others, and relive the nostalgia of collecting, all in one place."
+              ghLink="https://www.behance.net/gallery/213975693/Koletora-Card-Collection-app?tracking_source=project_owner_other_projects"
+              //demoLink="https://editor.soumya-jit.tech/"              
             />
           </Col>
 
