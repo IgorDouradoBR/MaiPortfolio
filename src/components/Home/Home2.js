@@ -6,6 +6,10 @@ import {
   AiFillGithub,
   AiOutlineTwitter,
   AiFillInstagram,
+  AiFillBehanceSquare,
+  AiOutlineBehance,
+  AiOutlineBehanceSquare,
+  AiFillBehanceCircle,
 } from "react-icons/ai";
 import { FaLinkedinIn } from "react-icons/fa";
 
@@ -13,51 +17,55 @@ function Home2() {
   return (
     <Container fluid className="home-about-section" id="about">
       <Container>
-        <Row>
-          <Col md={8} className="home-about-description">
-            <h1 style={{ fontSize: "2.6em" }}>
-              LET ME <span className="purple"> INTRODUCE </span> MYSELF
-            </h1>
-            <p className="home-about-body">
-              I fell in love with programming and I have at least learnt
-              something, I think… 🤷‍♂️
-              <br />
-              <br />I am fluent in classics like
-              <i>
-                <b className="purple"> C++, Javascript and Go. </b>
-              </i>
-              <br />
-              <br />
-              My field of Interest's are building new &nbsp;
-              <i>
-                <b className="purple">Web Technologies and Products </b> and
-                also in areas related to{" "}
-                <b className="purple">
-                  Blockchain.
-                </b>
-              </i>
-              <br />
-              <br />
-              Whenever possible, I also apply my passion for developing products
-              with <b className="purple">Node.js</b> and
-              <i>
-                <b className="purple">
-                  {" "}
-                  Modern Javascript Library and Frameworks
-                </b>
-              </i>
-              &nbsp; like
-              <i>
-                <b className="purple"> React.js and Next.js</b>
-              </i>
-            </p>
-          </Col>
-          <Col md={4} className="myAvtar">
-            <Tilt>
-              <img src={myImg} className="img-fluid" alt="avatar" />
-            </Tilt>
-          </Col>
-        </Row>
+      <Row>
+  <Col md={8} className="home-about-description">
+    <h1 style={{ fontSize: "2.6em" }}>
+      LET ME <span className="purple"> INTRODUCE </span> MYSELF
+    </h1>
+    <p className="home-about-body">
+      Design has always been my passion,<i>
+        <b className="purple"> specially UX/UI Designer</b>
+      </i>, and over time, I have refined my skills to craft experiences that truly make an impact.
+      <br />
+      <br />I am proficient in essential tools like
+      <i>
+        <b className="purple"> Figma and Adobe Tools</b>
+      </i>
+      , and I have a strong foundation in
+      <b className="purple"> User-Centered Design</b>.
+      <br />
+      <br />
+      My areas of interest include designing and developing
+      <i>
+        <b className="purple"> intuitive interfaces</b>
+      </i>
+      &nbsp;and exploring  
+      <b className="purple"> responsive design</b> for mobile and web platforms.
+      <br />
+      <br />
+      Whenever possible, I apply my passion for
+      <i>
+        <b className="purple"> UI and User Experience </b>
+      </i>
+      and enhance projects with <b className="purple"> Design System </b> and 
+      <b className="purple"> accessibility and inclusivity practices</b>,
+      ensuring every detail is crafted with the user in mind.
+      <br />
+      <br />
+      I am always exploring new ways to integrate
+      <i>
+        <b className="purple"> Design </b>
+      </i>
+      to create engaging and functional user experiences.
+    </p>
+  </Col>
+  <Col md={4} className="myAvtar">
+    <Tilt>
+      <img src={myImg} className="img-fluid" alt="avatar" />
+    </Tilt>
+  </Col>
+</Row>
+
         <Row>
           <Col md={12} className="home-about-social">
             <h1>FIND ME ON</h1>
@@ -65,29 +73,20 @@ function Home2() {
               Feel free to <span className="purple">connect </span>with me
             </p>
             <ul className="home-about-social-links">
-              <li className="social-icons">
+            <li className="social-icons">
                 <a
-                  href="https://github.com/soumyajit4419"
+                  href="https://www.behance.net/maiarasilveira"
                   target="_blank"
                   rel="noreferrer"
                   className="icon-colour  home-social-icons"
                 >
-                  <AiFillGithub />
+                  <AiOutlineBehance />
                 </a>
               </li>
+
               <li className="social-icons">
                 <a
-                  href="https://twitter.com/Soumyajit4419"
-                  target="_blank"
-                  rel="noreferrer"
-                  className="icon-colour  home-social-icons"
-                >
-                  <AiOutlineTwitter />
-                </a>
-              </li>
-              <li className="social-icons">
-                <a
-                  href="https://www.linkedin.com/in/soumyajit4419/"
+                  href="https://www.linkedin.com/in/maiarascosta11/"
                   target="_blank"
                   rel="noreferrer"
                   className="icon-colour  home-social-icons"
@@ -95,16 +94,20 @@ function Home2() {
                   <FaLinkedinIn />
                 </a>
               </li>
+
               <li className="social-icons">
                 <a
-                  href="https://www.instagram.com/soumyajit4419"
+                  href="https://github.com/maiarawin"
                   target="_blank"
                   rel="noreferrer"
-                  className="icon-colour home-social-icons"
+                  className="icon-colour  home-social-icons"
                 >
-                  <AiFillInstagram />
+                  <AiFillGithub />
                 </a>
               </li>
+              
+              
+             
             </ul>
           </Col>
         </Row>
