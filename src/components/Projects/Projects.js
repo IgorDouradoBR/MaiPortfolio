@@ -21,7 +21,7 @@ function Projects() {
           My Recent <strong className="purple">Works </strong>
         </h1>
         <p style={{ color: "white" }}>
-          Here are a few projects I've worked on recently.
+          Here are a few projects I've worked on as a UX/UI Designer recently.
         </p>
         <Row style={{ justifyContent: "center", paddingBottom: "10px" }}>
           <Col md={4} className="project-card">
@@ -84,7 +84,7 @@ function Projects() {
               imgPath={emotion}
               isBlog={false}
               title="Acesso+"
-              description="Acesso+ is an App focused on accessibility and inclusion, designed to assist people with disabilities in navigating universities and educational spaces with ease and independence. Acesso+ is an app made and designed for help everyone."
+              description="Acesso+ is an App focused on accessibility and inclusion, designed to assist people with disabilities in navigating universities and educational spaces with ease and independence. Acesso+ is an app made and designed to help everyone."
               // ghLink="https://github.com/soumyajit4419/AI_For_Social_Good"
               demoLink="https://apps.apple.com/br/app/acesso/id6449302201" 
             />
