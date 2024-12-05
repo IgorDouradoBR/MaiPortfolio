@@ -1,0 +1,28 @@
+{
+  "files": {
+    "main.css": "/MaiPortfolio/static/css/main.42d58678.css",
+    "main.js": "/MaiPortfolio/static/js/main.13740c1e.js",
+    "static/js/453.ace21015.chunk.js": "/MaiPortfolio/static/js/453.ace21015.chunk.js",
+    "static/media/home-main.png": "/MaiPortfolio/static/media/home-main.32e351fe9253d6f8be85.png",
+    "static/media/leaf.png": "/MaiPortfolio/static/media/leaf.ff2616f664c8c0ceab91.png",
+    "static/media/emotion.png": "/MaiPortfolio/static/media/emotion.eabfc16e7a146ab15778.png",
+    "static/media/suicide.png": "/MaiPortfolio/static/media/suicide.9c86cd7138a398c45fa5.png",
+    "static/media/codeEditor.png": "/MaiPortfolio/static/media/codeEditor.1b585492490c8c1cace9.png",
+    "static/media/blog.png": "/MaiPortfolio/static/media/blog.fb8ab7f271a937d5fc01.png",
+    "static/media/about.png": "/MaiPortfolio/static/media/about.aee0f771fbfc1e7b8fa8.png",
+    "static/media/chatify.png": "/MaiPortfolio/static/media/chatify.7206044e0b5cdad44726.png",
+    "static/media/Soumyajit_Behera-BIT_MESRA.pdf": "/MaiPortfolio/static/media/Soumyajit_Behera-BIT_MESRA.f31c00c0623443fc6fa3.pdf",
+    "static/media/home-bg.jpg": "/MaiPortfolio/static/media/home-bg.dc52d5d40a40b13154b0.jpg",
+    "static/media/logo.png": "/MaiPortfolio/static/media/logo.f200da2b6477caed1b3b.png",
+    "static/media/avatar.svg": "/MaiPortfolio/static/media/avatar.5852f40fbb38aa284829fa3fb7722225.svg",
+    "static/media/pre.svg": "/MaiPortfolio/static/media/pre.d4812f51c8c80976eaab.svg",
+    "index.html": "/MaiPortfolio/index.html",
+    "main.42d58678.css.map": "/MaiPortfolio/static/css/main.42d58678.css.map",
+    "main.13740c1e.js.map": "/MaiPortfolio/static/js/main.13740c1e.js.map",
+    "453.ace21015.chunk.js.map": "/MaiPortfolio/static/js/453.ace21015.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.42d58678.css",
+    "static/js/main.13740c1e.js"
+  ]
+}
