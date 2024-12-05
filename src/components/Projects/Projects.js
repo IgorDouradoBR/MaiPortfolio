@@ -29,7 +29,7 @@ function Projects() {
               imgPath={chatify}
               isBlog={false}
               title="Herbaria"
-              description="Herbaria is an App to helps users identify plant species, visualize all the plants they care for, and receive tasks and notifications to remind them of their plant care routine, among many other features.."
+              description="Herbaria is an App designed to help users identify plant species, track and care for their collections, and receive personalized tasks and notifications to enhance their plant care routine, among many other features and applications for a plant lover."
               ghLink="https://www.behance.net/gallery/209512871/Herbaria-Smart-Plant-Care-App"
               demoLink="https://apps.apple.com/br/app/herbaria-seu-app-de-plantas/id6473550019"
             />
@@ -51,7 +51,7 @@ function Projects() {
               imgPath={bitsOfCode}
               isBlog={false}
               title="Koletora"
-              description="Koletora is an App designed for card collectors to organize and visualize their collections, trade cards with others, and relive the nostalgia of collecting, all in one place.\n\n"
+              description="Koletora is an App designed for collectors to organize and showcase their collections, trade with others, and relive the nostalgia through an intuitive and engaging experience. Koletora is for anyone who is passionate about collecting everything, especially cards."
               ghLink="https://www.behance.net/gallery/213975693/Koletora-Card-Collection-app?tracking_source=project_owner_other_projects"
               //demoLink="https://editor.soumya-jit.tech/"              
             />
