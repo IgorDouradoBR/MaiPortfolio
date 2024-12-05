@@ -1,29 +1,29 @@
 {
   "files": {
-    "main.css": "/MaiPortfolio/static/css/main.42d58678.css",
-    "main.js": "/MaiPortfolio/static/js/main.3139e4ba.js",
-    "static/js/453.ace21015.chunk.js": "/MaiPortfolio/static/js/453.ace21015.chunk.js",
-    "static/media/home-main.png": "/MaiPortfolio/static/media/home-main.ee68d560c63dcb81343e.png",
-    "static/media/avatar.png": "/MaiPortfolio/static/media/avatar.4f003469843d2651fa08.png",
-    "static/media/about.png": "/MaiPortfolio/static/media/about.0660185701ca65752015.png",
-    "static/media/codeEditor.png": "/MaiPortfolio/static/media/codeEditor.c97b3e9ff6269d97c331.png",
-    "static/media/Curriculo.pdf": "/MaiPortfolio/static/media/Curriculo.cc0f53cb68690908bb93.pdf",
-    "static/media/salao.png": "/MaiPortfolio/static/media/salao.2f873db16b0a62ffd034.png",
-    "static/media/chatify.png": "/MaiPortfolio/static/media/chatify.0907aae88fbcd1216bb8.png",
-    "static/media/suicide.png": "/MaiPortfolio/static/media/suicide.15663f10699ebe5d3df1.png",
-    "static/media/blog.png": "/MaiPortfolio/static/media/blog.e0fd77b79b1c8cfdcab3.png",
-    "static/media/emotion.png": "/MaiPortfolio/static/media/emotion.ff94e1906823e740f32e.png",
-    "static/media/bakery.png": "/MaiPortfolio/static/media/bakery.6465fd37bba6bbee014d.png",
-    "static/media/leaf.png": "/MaiPortfolio/static/media/leaf.cc855896b064819ff16c.png",
-    "static/media/home-bg.jpg": "/MaiPortfolio/static/media/home-bg.dc52d5d40a40b13154b0.jpg",
-    "static/media/pre.svg": "/MaiPortfolio/static/media/pre.d4812f51c8c80976eaab.svg",
-    "index.html": "/MaiPortfolio/index.html",
-    "main.42d58678.css.map": "/MaiPortfolio/static/css/main.42d58678.css.map",
-    "main.3139e4ba.js.map": "/MaiPortfolio/static/js/main.3139e4ba.js.map",
-    "453.ace21015.chunk.js.map": "/MaiPortfolio/static/js/453.ace21015.chunk.js.map"
+    "main.css": "/static/css/main.66788501.css",
+    "main.js": "/static/js/main.420ca078.js",
+    "static/js/453.ace21015.chunk.js": "/static/js/453.ace21015.chunk.js",
+    "static/media/home-main.png": "/static/media/home-main.ee68d560c63dcb81343e.png",
+    "static/media/avatar.png": "/static/media/avatar.4f003469843d2651fa08.png",
+    "static/media/about.png": "/static/media/about.0660185701ca65752015.png",
+    "static/media/codeEditor.png": "/static/media/codeEditor.c97b3e9ff6269d97c331.png",
+    "static/media/Curriculo.pdf": "/static/media/Curriculo.cc0f53cb68690908bb93.pdf",
+    "static/media/salao.png": "/static/media/salao.2f873db16b0a62ffd034.png",
+    "static/media/chatify.png": "/static/media/chatify.0907aae88fbcd1216bb8.png",
+    "static/media/suicide.png": "/static/media/suicide.15663f10699ebe5d3df1.png",
+    "static/media/blog.png": "/static/media/blog.e0fd77b79b1c8cfdcab3.png",
+    "static/media/emotion.png": "/static/media/emotion.ff94e1906823e740f32e.png",
+    "static/media/bakery.png": "/static/media/bakery.6465fd37bba6bbee014d.png",
+    "static/media/leaf.png": "/static/media/leaf.cc855896b064819ff16c.png",
+    "static/media/home-bg.jpg": "/static/media/home-bg.dc52d5d40a40b13154b0.jpg",
+    "static/media/pre.svg": "/static/media/pre.d4812f51c8c80976eaab.svg",
+    "index.html": "/index.html",
+    "main.66788501.css.map": "/static/css/main.66788501.css.map",
+    "main.420ca078.js.map": "/static/js/main.420ca078.js.map",
+    "453.ace21015.chunk.js.map": "/static/js/453.ace21015.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.42d58678.css",
-    "static/js/main.3139e4ba.js"
+    "static/css/main.66788501.css",
+    "static/js/main.420ca078.js"
   ]
 }
