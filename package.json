@@ -1,8 +1,8 @@
 {
-  "homepage": "https://IgorDouradoBR.github.io/MaiPortfolio",
   "name": "portfolio",
   "version": "0.1.0",
   "private": true,
+  "homepage": "https://IgorDouradoBR.github.io/MaiPortfolio",
   "dependencies": {
     "@react-pdf/renderer": "^2.2.0",
     "@testing-library/jest-dom": "^5.16.2",
@@ -10,9 +10,9 @@
     "@testing-library/user-event": "^13.5.0",
     "axios": "^0.26.1",
     "bootstrap": "^5.1.3",
-    "react": "^17.0.2",
+    "react": "^18.3.1",
     "react-bootstrap": "^2.2.1",
-    "react-dom": "^17.0.2",
+    "react-dom": "^18.3.1",
     "react-github-calendar": "^3.2.2",
     "react-icons": "^4.8.0",
     "react-parallax-tilt": "^1.7.42",
@@ -23,11 +23,10 @@
     "typewriter-effect": "^2.18.2",
     "web-vitals": "^2.1.4"
   },
-
   "scripts": {
     "start": "react-scripts start",
     "predeploy": "npm run build",
-    "deploy": "gh-pages -d dist",
+    "deploy": "gh-pages -d build",
     "build": "react-scripts build",
     "test": "react-scripts test",
     "eject": "react-scripts eject"
