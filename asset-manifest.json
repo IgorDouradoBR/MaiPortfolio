@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/static/css/main.66788501.css",
-    "main.js": "/static/js/main.420ca078.js",
+    "main.js": "/static/js/main.88ac5a34.js",
     "static/js/453.ace21015.chunk.js": "/static/js/453.ace21015.chunk.js",
     "static/media/home-main.png": "/static/media/home-main.ee68d560c63dcb81343e.png",
     "static/media/avatar.png": "/static/media/avatar.4f003469843d2651fa08.png",
@@ -12,18 +12,18 @@
     "static/media/chatify.png": "/static/media/chatify.0907aae88fbcd1216bb8.png",
     "static/media/suicide.png": "/static/media/suicide.15663f10699ebe5d3df1.png",
     "static/media/blog.png": "/static/media/blog.e0fd77b79b1c8cfdcab3.png",
-    "static/media/emotion.png": "/static/media/emotion.ff94e1906823e740f32e.png",
     "static/media/bakery.png": "/static/media/bakery.6465fd37bba6bbee014d.png",
+    "static/media/emotion.png": "/static/media/emotion.2bef70b49108ee71db56.png",
     "static/media/leaf.png": "/static/media/leaf.cc855896b064819ff16c.png",
     "static/media/home-bg.jpg": "/static/media/home-bg.dc52d5d40a40b13154b0.jpg",
     "static/media/pre.svg": "/static/media/pre.d4812f51c8c80976eaab.svg",
     "index.html": "/index.html",
     "main.66788501.css.map": "/static/css/main.66788501.css.map",
-    "main.420ca078.js.map": "/static/js/main.420ca078.js.map",
+    "main.88ac5a34.js.map": "/static/js/main.88ac5a34.js.map",
     "453.ace21015.chunk.js.map": "/static/js/453.ace21015.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.66788501.css",
-    "static/js/main.420ca078.js"
+    "static/js/main.88ac5a34.js"
   ]
 }
