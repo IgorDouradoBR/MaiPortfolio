@@ -1,13 +1,13 @@
 {
   "files": {
     "main.css": "/static/css/main.66788501.css",
-    "main.js": "/static/js/main.88ac5a34.js",
+    "main.js": "/static/js/main.a5b03fd8.js",
     "static/js/453.ace21015.chunk.js": "/static/js/453.ace21015.chunk.js",
     "static/media/home-main.png": "/static/media/home-main.ee68d560c63dcb81343e.png",
     "static/media/avatar.png": "/static/media/avatar.4f003469843d2651fa08.png",
     "static/media/about.png": "/static/media/about.0660185701ca65752015.png",
     "static/media/codeEditor.png": "/static/media/codeEditor.c97b3e9ff6269d97c331.png",
-    "static/media/Curriculo.pdf": "/static/media/Curriculo.cc0f53cb68690908bb93.pdf",
+    "static/media/Curriculo.pdf": "/static/media/Curriculo.3fa02f6a03d61aff7feb.pdf",
     "static/media/salao.png": "/static/media/salao.2f873db16b0a62ffd034.png",
     "static/media/chatify.png": "/static/media/chatify.0907aae88fbcd1216bb8.png",
     "static/media/suicide.png": "/static/media/suicide.15663f10699ebe5d3df1.png",
@@ -19,11 +19,11 @@
     "static/media/pre.svg": "/static/media/pre.d4812f51c8c80976eaab.svg",
     "index.html": "/index.html",
     "main.66788501.css.map": "/static/css/main.66788501.css.map",
-    "main.88ac5a34.js.map": "/static/js/main.88ac5a34.js.map",
+    "main.a5b03fd8.js.map": "/static/js/main.a5b03fd8.js.map",
     "453.ace21015.chunk.js.map": "/static/js/453.ace21015.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.66788501.css",
-    "static/js/main.88ac5a34.js"
+    "static/js/main.a5b03fd8.js"
   ]
 }
