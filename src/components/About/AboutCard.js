@@ -8,16 +8,42 @@ function AboutCard() {
       <Card.Body>
         <blockquote className="blockquote mb-0">
           <p style={{ textAlign: "justify" }}>
-            Hi Everyone, I am <span className="purple">Maiara Silveira </span> 
-            from <span className="purple">Porto Alegre, Rio Grande do Sul, Brazil.</span>
+            Hi everyone, I’m <span className="purple">Maiara Silveira</span>{" "}
+            from
+            <span className="purple">
+              {" "}
+              Porto Alegre, Rio Grande do Sul, Brazil
+            </span>
+            .
             <br />
-            I have been working as a UX/UI Designer at the Apple Developer Academy POA 
-            for the past two years, where I design impactful to softwares and user-centered experiences.
+            I’m a UX/UI Designer at{" "}
+            <span className="purple">Nexus Software Development</span>, where I
+            design and scale a white-label app end-to-end—from research and
+            information architecture to prototyping, usability, and multi-client
+            adaptability.
             <br />
-            I am currently pursuing a postgraduate degree in UX Design to further enhance my skills in crafting user-focused solutions.
+            <br />I was the{" "}
+            <span className="purple">
+              winner of the 13th edition of Campus Mobile
+            </span>{" "}
+            — as the Designer behind the SAF Herbaria project. This achievement
+            took me to <span className="purple">Silicon Valley, USA.</span>,
+            where I showcased the product and its research-driven design.
             <br />
             <br />
-            Apart from design, here are a few things I enjoy doing in my free time:
+            Previously, I worked at the{" "}
+            <span className="purple">Apple Developer Academy POA</span> ,
+            creating immersive apps aligned with Human Interface Guidelines and
+            accessibility best practices. I’m currently pursuing a postgraduate
+            degree in UX Design at <span className="purple">PUCRS</span>.
+            <br />
+            <br />
+            I’m currently pursuing a postgraduate degree in UX Design at{" "}
+            <span className="purple">PUCRS</span>
+            <br />
+            <br />
+            Apart from design, here are a few things I enjoy doing in my free
+            time:
           </p>
           <ul>
             <li className="about-activity">
@@ -27,21 +53,21 @@ function AboutCard() {
               <ImPointRight /> Reading
             </li>
             <li className="about-activity">
-              <ImPointRight />  Sewing
+              <ImPointRight /> Sewing
             </li>
             <li className="about-activity">
-              <ImPointRight /> Curating Clothes 
+              <ImPointRight /> Curating Clothes
             </li>
           </ul>
-  
+
           <p style={{ color: "rgb(155 126 172)" }}>
-            "Design is not just how it looks, but how it works and makes people feel!"{" "}
+            "Design is not just how it looks, but how it works and makes people
+            feel!"{" "}
           </p>
         </blockquote>
       </Card.Body>
     </Card>
   );
-  
 }
 
 export default AboutCard;

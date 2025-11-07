@@ -6,11 +6,11 @@ import leaf from "../../Assets/Projects/leaf.png";
 import emotion from "../../Assets/Projects/emotion.png";
 import editor from "../../Assets/Projects/codeEditor.png";
 import chatify from "../../Assets/Projects/chatify.png";
+import safherbaria from "../../Assets/Projects/safherbaria.png";
 import suicide from "../../Assets/Projects/suicide.png";
 import bitsOfCode from "../../Assets/Projects/blog.png";
 import salao from "../../Assets/Projects/salao.png";
 import bake from "../../Assets/Projects/bakery.png";
-
 
 function Projects() {
   return (
@@ -24,6 +24,16 @@ function Projects() {
           Here are a few projects I've worked on as a UX/UI Designer recently.
         </p>
         <Row style={{ justifyContent: "center", paddingBottom: "10px" }}>
+          <Col md={4} className="project-card">
+            <ProjectCard
+              imgPath={safherbaria}
+              isBlog={false}
+              title="SAF Herbaria"
+              description="SAF Herbaria, winner of Campus Mobile 13th edition and and showcased in the USA, is an app that boosts agroforestry management with biome, climate, location and soil based recommendations, a voice field notebook, photo identification, a profit calculator, and a specialized chatbot"
+              demoLink="https://www.igordourado.com/herbaria/index.html"
+            />
+          </Col>
+
           <Col md={4} className="project-card">
             <ProjectCard
               imgPath={chatify}
@@ -53,7 +63,7 @@ function Projects() {
               title="Koletora"
               description="Koletora is an App designed for collectors to organize and showcase their collections, trade with others, and relive the nostalgia through an intuitive and engaging experience. Koletora is for anyone who is passionate about collecting everything, especially cards."
               ghLink="https://www.behance.net/gallery/213975693/Koletora-Card-Collection-app?tracking_source=project_owner_other_projects"
-              //demoLink="https://editor.soumya-jit.tech/"              
+              //demoLink="https://editor.soumya-jit.tech/"
             />
           </Col>
 
@@ -74,9 +84,9 @@ function Projects() {
               isBlog={false}
               title="Riddle Cards"
               description="Riddle Cards is an App featuring nearly 3000 riddles and jokes in English and Portuguese, inspired by popular card games. With 3 exclusive themes, it offers an engaging experience through interactive card designs, perfect for fun moments with friends or alone."
-             // ghLink="https://github.com/soumyajit4419/AI_For_Social_Good"
+              // ghLink="https://github.com/soumyajit4419/AI_For_Social_Good"
               demoLink="https://apps.apple.com/br/app/riddle-cards/id6569229614"
-              />
+            />
           </Col>
 
           <Col md={4} className="project-card">
@@ -86,7 +96,7 @@ function Projects() {
               title="Acesso+"
               description="Acesso+ is an App focused on accessibility and inclusion, designed to assist people with disabilities in navigating universities and educational spaces with ease and independence. Acesso+ is an app made and designed to help everyone."
               // ghLink="https://github.com/soumyajit4419/AI_For_Social_Good"
-              demoLink="https://apps.apple.com/br/app/acesso/id6449302201" 
+              demoLink="https://apps.apple.com/br/app/acesso/id6449302201"
             />
           </Col>
 
@@ -97,7 +107,7 @@ function Projects() {
               title="Avand Studio"
               description="Avand Studio is a prototype of a beauty salon app created as part of a UX/UI design project. Designed for iPhone, iPad, and MacOS, it focuses on delivering a seamless and intuitive experience, showcasing modern interface design tailored for multiple Apple devices."
               ghLink="https://www.behance.net/gallery/206923057/Beauty-app-Case-Study-UIUX-design"
-              //demoLink="https://apps.apple.com/br/app/acesso/id6449302201" 
+              //demoLink="https://apps.apple.com/br/app/acesso/id6449302201"
             />
           </Col>
 
@@ -108,10 +118,9 @@ function Projects() {
               title="Dulce Natural"
               description="Dulce Natural is a prototype for a bakery platform and website, created as a web-focused case study. The design highlights an elegant and user-friendly interface, showcasing the unique offerings of the bakery while providing an intuitive experience for customers."
               ghLink="https://www.behance.net/gallery/146250863/UXUI-Case-Study-5-Bakery-web"
-              //demoLink="https://apps.apple.com/br/app/acesso/id6449302201" 
+              //demoLink="https://apps.apple.com/br/app/acesso/id6449302201"
             />
           </Col>
-          
         </Row>
       </Container>
     </Container>
